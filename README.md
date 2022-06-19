@@ -1,0 +1,4 @@
+# REACT
+
+Run:
+`npm start`
